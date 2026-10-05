@@ -8,6 +8,7 @@
   <strong>Play the classic Nokia Snake game using nothing but your hand gestures!</strong>
 </p>
 
+
 ## 📖 Overview
 
 This project brings the iconic Nokia Snake game to life with modern computer vision technology. Using OpenCV and MediaPipe for real-time hand tracking, you can control the snake with intuitive swipe gestures, activate speed boosts with pinch gestures, and restart the game—all without touching your keyboard! Experience the nostalgic Nokia-green theme combined with cutting-edge gesture recognition.
